@@ -10,7 +10,7 @@
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/KuldeepKGupta/DataCleaningWeek4/blob/master/Run_Analysis.R "Run_Analysis.R")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/KuldeepKGupta/DataCleaningWeek4/blob/master/run_analysis.R "run_analysis.R")
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/KuldeepKGupta/DataCleaningWeek4/blob/master/tidyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/KuldeepKGupta/DataCleaningWeek4 "Click to go to Repo")
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/KuldeepKGupta/DataCleaningWeek4/blob/master/CodeBook.md "CodeBook.md")
