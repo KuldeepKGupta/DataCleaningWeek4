@@ -14,4 +14,4 @@ Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/Kuldee
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/KuldeepKGupta/DataCleaningWeek4/blob/master/tidyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/KuldeepKGupta/DataCleaningWeek4 "Click to go to Repo")
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/KuldeepKGupta/DataCleaningWeek4/blob/master/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md "README.md")
+README | ReadingItNow |  [Repo Link](https://github.com/KuldeepKGupta/DataCleaningWeek4/blob/master/README.md "README.md")
